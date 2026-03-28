@@ -7,7 +7,7 @@ Playstation 2 (PS2)
 
 | Game Version                | ELF           | Sha1                                     |
 |-----------------------------|---------------|------------------------------------------|
-| Road Trip Adventure (PAL)   | `SLES_513.56` |`5f972ac1549c387638e91ff17869a60b86a091c2`|
+| Road Trip Adventure (PAL)   | `SLES_513.56` |`7a8cb5daf4647f6857a28ec5a8a783e77e3adadd`|
 
 ## Possible future versions
 | Game Version                | ELF           | Sha1                                     |
